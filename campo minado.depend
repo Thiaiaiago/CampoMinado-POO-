@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1667700914 source:c:\users\thiag\onedrive\Área de trabalho\programação\campo minado pronto\main.cpp
+	<iostream>
+	"campo_minado.h"
+	"campo_minado.cpp"
+
+1667700967 c:\users\thiag\onedrive\Área de trabalho\programação\campo minado pronto\campo_minado.h
+
+1667700967 c:\users\thiag\onedrive\Área de trabalho\programação\campo minado pronto\campo_minado.cpp
+	"campo_minado.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1667700967 source:c:\users\thiag\onedrive\Área de trabalho\programação\campo minado pronto\campo_minado.cpp
+	"campo_minado.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
